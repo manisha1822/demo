@@ -1,0 +1,5 @@
+use addon;
+create table Manisha(name varchar(20),marks int,department varchar(7),section varchar(5));
+select * from manisha;
+insert into manisha values("manisha",90,"BCA","B"),("sanjay",95,"BCA","B"),("devika",98,"BCA","B"),
+("narmatha",99,"BCA","B"),("sahana",80,"BCA","B");
